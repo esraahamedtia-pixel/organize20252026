@@ -1,7 +1,5 @@
+python-telegram-bot==20.5
 google-api-python-client
-python-telegram-bot==20.3
-gspread
-oauth2client
-gunicorn
-img2pdf
-pytz
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
