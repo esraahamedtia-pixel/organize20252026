@@ -3,5 +3,5 @@ WORKDIR /app
 COPY . .
 RUN pip ininstall -r 
 requirements.txt
-
 CMD ["python","organize.py"]
+
