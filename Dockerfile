@@ -17,4 +17,5 @@ COPY . .
 EXPOSE 8080
 
 # تشغيل البوت
-CMD ["python", "main.py"]
+CMD ["python", "organize.py"]
+
